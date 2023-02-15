@@ -29,7 +29,7 @@ I'm Divya Chandran a Python Backend Developer and a Software Tester.
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/2x/django.png" alt="react" width="40" height="40"/> </a>
 <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://external-content.duckduckgo.com/ip3/www.django-rest-framework.org.ico" alt="spring" width="40" height="40"/> </a> 
 <img title="linux" alt="linux" src="ICONS/linux-tux.svg" width="40" height="35" style="vertical-align:down; margin:4px"/>
-<img title="FastAPI" alt="FASTAPI" src="https://matplotlib.org/stable/_static/images/logo2.svg" width="40" heigh=30">
+<img title="Matplotlib" alt="Matplotlib" src="https://matplotlib.org/stable/_static/images/logo2.svg" width="40" height="30"/>
 
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/divyaChandran10/divyaChandran10/blob/main/Resumes/CV_DivyaChandran.pdf)
