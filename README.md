@@ -38,12 +38,16 @@ I'm Divya Chandran a Python Backend Developer and a Software Tester.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=divyaChandran10.divyaChandran10)
 
 <summary>
- Love to do:
+#### Love to do:
 </summary>
-
 <br >
-
 Sharing knowledge, motivating people. 
+
+#### Soft Skills
+- Empathetic
+- Supportive
+- Organized yet Flexible
+- Optimistic
 
 #### Github Stats
 
