@@ -39,7 +39,7 @@ I'm Divya Chandran a Python Backend Developer and a Software Tester.
 
 #### Projects
 - [Survey App](https://github.com/Final-Project-Truck/Final_Project)
-- [Sharing Platform]()
+- [Sharing Platform](https://github.com/Divya-Python-Exercises-2022/Share_Platform) - (in Progress)
 
 #### Love to do:
 Sharing knowledge, motivating people. 
