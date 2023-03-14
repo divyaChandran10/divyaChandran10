@@ -29,6 +29,7 @@ I'm Divya Chandran a Python Backend Developer and a Software Tester.
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/2x/django.png" alt="react" width="40" height="40"/> </a>
 <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://external-content.duckduckgo.com/ip3/www.django-rest-framework.org.ico" alt="spring" width="40" height="40"/> </a> 
 <img title="linux" alt="linux" src="ICONS/linux-tux.svg" width="40" height="35" style="vertical-align:down; margin:4px"/>
+<img title="Matplotlib" alt="Matplotlib" src="https://matplotlib.org/stable/_static/images/logo2.svg" width="100" height="50"/>
 
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/divyaChandran10/divyaChandran10/blob/main/Resumes/CV_DivyaChandran.pdf)
@@ -36,13 +37,18 @@ I'm Divya Chandran a Python Backend Developer and a Software Tester.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=divyaChandran10.divyaChandran10)
 
-<summary>
-  More stuff about me
-</summary>
+#### Projects
+- [Survey App](https://github.com/Final-Project-Truck/Final_Project)
+- [Sharing Platform](https://github.com/Divya-Python-Exercises-2022/Share_Platform) - (in Progress)
 
-<br >
+#### Love to do:
+Sharing knowledge, motivating people. 
 
-I love sharing knowledge and to motivate people. 
+#### Soft Skills
+- Empathetic
+- Supportive
+- Organized yet Flexible
+- Optimistic
 
 #### Github Stats
 
